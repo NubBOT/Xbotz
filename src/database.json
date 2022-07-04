@@ -1,0 +1,76 @@
+{
+  "sticker": {},
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": []
+  },
+  "others": {
+    "vote": [],
+    "trennama": [],
+    "trenemail": [],
+    "trenpw": []
+  },
+  "users": {
+    "6289693150601@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "∞",
+      "depo": "0"
+    },
+    "6281260900707@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "∞",
+      "depo": "0"
+    },
+    "6288217004002@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100,
+      "depo": "0"
+    },
+    "6282211861857@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "∞",
+      "depo": "0"
+    },
+    "6285870824804@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "∞",
+      "depo": "0"
+    }
+  },
+  "chats": {
+    "6289693150601@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "120363042200811410@g.us": {
+      "mute": false,
+      "wame": false
+    },
+    "6289505790941-1633705517@g.us": {
+      "mute": false,
+      "wame": false
+    },
+    "6282211861857@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "120363043613235715@g.us": {
+      "mute": false,
+      "wame": false
+    }
+  }
+}

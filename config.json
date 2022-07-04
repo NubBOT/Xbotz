@@ -1,0 +1,13 @@
+{
+  "ownerNumber": ["6282352239289@s.whatsapp.net"],
+  "ownerName": ["Wibuu"],
+  "botName": "Xbotz-MD",
+  "sessionName": "session",
+  "pathimg": "./media/Latina.jpg",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
